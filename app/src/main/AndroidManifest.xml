@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Ralph_Lauren">
+        <activity
+            android:name=".Order_sucessful"
+            android:exported="false" />
+        <activity
+            android:name=".Payment_method"
+            android:exported="false" />
+        <activity
+            android:name=".Sn8"
+            android:exported="false" />
+        <activity
+            android:name=".Sn7"
+            android:exported="false" />
+        <activity
+            android:name=".Sn6"
+            android:exported="false" />
+        <activity
+            android:name=".Sn5"
+            android:exported="false" />
+        <activity
+            android:name=".Sn4"
+            android:exported="false" />
+        <activity
+            android:name=".Sn3"
+            android:exported="false" />
+        <activity
+            android:name=".Sn2"
+            android:exported="false" />
+        <activity
+            android:name=".Sn1"
+            android:exported="false" />
+        <activity
+            android:name=".Sh8"
+            android:exported="false" />
+        <activity
+            android:name=".Sh7"
+            android:exported="false" />
+        <activity
+            android:name=".Sh6"
+            android:exported="false" />
+        <activity
+            android:name=".Sh5"
+            android:exported="false" />
+        <activity
+            android:name=".Sh4"
+            android:exported="false" />
+        <activity
+            android:name=".Sh3"
+            android:exported="false" />
+        <activity
+            android:name=".Sh2"
+            android:exported="false" />
+        <activity
+            android:name=".Sh1"
+            android:exported="false" />
+        <activity
+            android:name=".Coat8"
+            android:exported="false" />
+        <activity
+            android:name=".Coat7"
+            android:exported="false" />
+        <activity
+            android:name=".Coat6"
+            android:exported="false" />
+        <activity
+            android:name=".Coat5"
+            android:exported="false" />
+        <activity
+            android:name=".Coat4"
+            android:exported="false" />
+        <activity
+            android:name=".Coat3"
+            android:exported="false" />
+        <activity
+            android:name=".Coat2"
+            android:exported="false" />
+        <activity
+            android:name=".Coat1"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt10"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt9"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt8"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt7"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt6"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt5"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt4"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt3"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt2"
+            android:exported="false" />
+        <activity
+            android:name=".Tsirt1"
+            android:exported="false" />
+        <activity
+            android:name=".Pant10"
+            android:exported="false" />
+        <activity
+            android:name=".Pant9"
+            android:exported="false" />
+        <activity
+            android:name=".Pant8"
+            android:exported="false" />
+        <activity
+            android:name=".Pant7"
+            android:exported="false" />
+        <activity
+            android:name=".Pant6"
+            android:exported="false" />
+        <activity
+            android:name=".Pant5"
+            android:exported="false" />
+        <activity
+            android:name=".Pant4"
+            android:exported="false" />
+        <activity
+            android:name=".Pant3"
+            android:exported="false" />
+        <activity
+            android:name=".Pant2"
+            android:exported="false" />
+        <activity
+            android:name=".Pant1"
+            android:exported="false" />
+        <activity
+            android:name=".sneakers_catagory"
+            android:exported="false" />
+        <activity
+            android:name=".shoes_catagory"
+            android:exported="false" />
+        <activity
+            android:name=".Coat_catagory"
+            android:exported="false" />
+        <activity
+            android:name=".Pant_catagory"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt_Catagory"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer_catagory"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt10"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt9"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt8"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt7"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt6"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt5"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt4"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt3"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt2"
+            android:exported="false" />
+        <activity
+            android:name=".Shirt1"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer8"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer7"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer6"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer5"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer4"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer3"
+            android:exported="false" />
+        <activity
+            android:name=".Blazer2"
+            android:exported="false" />
+        <activity
+            android:name=".Suit8"
+            android:exported="false" />
+        <activity
+            android:name=".Suit7"
+            android:exported="false" />
+        <activity
+            android:name=".Suit6"
+            android:exported="false" />
+        <activity
+            android:name=".Suit5"
+            android:exported="false" />
+        <activity
+            android:name=".Suit4"
+            android:exported="false" />
+        <activity
+            android:name=".Suit3"
+            android:exported="false" />
+        <activity
+            android:name=".Suit2"
+            android:exported="false" />
+        <activity
+            android:name=".blazer1"
+            android:exported="false" />
+        <activity
+            android:name=".suit1"
+            android:exported="false" />
+        <activity
+            android:name=".tshirt"
+            android:exported="false" />
+        <activity
+            android:name=".trousers"
+            android:exported="false" />
+        <activity
+            android:name=".shirts"
+            android:exported="false" />
+        <activity
+            android:name=".blazer"
+            android:exported="false" />
+        <activity
+            android:name=".suit_catagory"
+            android:exported="false" />
+        <activity
+            android:name=".Product_catagory"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Registration"
+            android:exported="false" />
+        <activity
+            android:name=".splash_screen"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

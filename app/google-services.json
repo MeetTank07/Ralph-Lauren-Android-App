@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975113096160",
+    "project_id": "ralph-lauren-8db32",
+    "storage_bucket": "ralph-lauren-8db32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975113096160:android:74ebd851bfdcaf2c2ab985",
+        "android_client_info": {
+          "package_name": "com.example.ralph_lauren"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0XdU9keOSovpfcXmBro_pOmZHKdxS3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
